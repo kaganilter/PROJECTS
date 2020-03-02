@@ -12,7 +12,7 @@ contains 3 tables:
     ii) the "Facilities" table, and
     iii) the "Members" table.
 
-Note that, if you need to, you can also download these tables locally.
+ if you need to, you can also download these tables locally.
 
 In the mini project, you'll be asked a series of questions. You can
 solve them using the platform, but for the final deliverable,
